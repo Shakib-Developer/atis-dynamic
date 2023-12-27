@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fa9c53e9-2c6f-4885-ae82-967d8332a1b3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/background/lines.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/elements/blue-up.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/elements/bullets-dark-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/elements/bullets-dark-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/elements/bullets-gray-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/elements/bullets-gray-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/elements/bullets-green-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/elements/bullets-green-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/elements/bullets-pink-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/elements/bullets-purple-left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/elements/bullets-yellow-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/elements/bullets-yellow-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/elements/green-dark-up.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/elements/green-up.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/elements/left-quote.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/elements/line-light-gray.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/elements/line-light.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/elements/line.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/elements/purple-up.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/elements/puzzle.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/elements/quote-grey.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/elements/terminal.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/elements/thumb-up.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/elements/user-circle.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/elements/wing-green-down.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/elements/wing-pink-down.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/elements/wing-purple-down.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/elements/wing-yellow-down.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/illustrations/book-detail-full.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/illustrations/book-detail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/illustrations/details-full.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/illustrations/details.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/illustrations/home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/illustrations/login-full.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/illustrations/login.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/illustrations/men-on-chair-green-background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/illustrations/men-on-chair-light-green.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/illustrations/men-on-chair-light.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/illustrations/men-on-chair-purple-background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/illustrations/men-on-chair-purple-dark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/illustrations/men-on-chair.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/illustrations/pablo-coming-soon-dark-mono.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/illustrations/pablo-coming-soon-flat-color.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/illustrations/pablo-coming-soon-light-color.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/illustrations/pablo-coming-soon-mono.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/illustrations/pablo-working.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/illustrations/pablo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/illustrations/scene.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/illustrations/technical-support-dark-green.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/illustrations/technical-support-little-dark-green.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/illustrations/technical-support-little-dark-purple.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/logo/atis/atis-color-black.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/logo/atis/atis-color-sign.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/logo/atis/atis-color-white.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/logo/atis/atis-flat-white.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/logo/atis/atis-flat.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/logo/atis/atis-mono-black.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/logo/atis/atis-mono-green.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/logo/atis/atis-mono-light.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/logo/atis/atis-mono-sign.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/logo/atis/atis-mono-white.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/logo/brands/amazon-grey.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/logo/brands/amazon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/logo/brands/app-store-download.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/logo/brands/dropbox-grey.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/logo/brands/dropbox.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/logo/brands/google-play-store.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/logo/brands/netflix-grey.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/logo/brands/netflix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/logo/brands/slack-grey.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/logo/brands/slack.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/logo/brands/spotify-grey.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/logo/brands/spotify.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/logo/brands/stripe-grey.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/logo/brands/stripe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/social/clutch-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/social/facebook-light-green.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/social/facebook-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/social/facebook-name.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/social/facebook-purple.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/social/facebook-yellow.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/social/facebook.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/social/google-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/social/instagram-light-green.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/social/instagram-purple.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/social/instagram-yellow.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/social/instagram.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/social/twitter-light-green.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/social/twitter-purple.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/social/twitter-yellow.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/atis-assets/social/twitter.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/360-F-299042079-vGBD7wIlSeNl7vOevWHiL93G4koMM967.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/601441dd6dfbe10018e00c25.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/960x0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/Screenshot-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/Screenshot-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/hub-01-18-projectmanagement-Hero-1200x900-software-tips.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/istockphoto-1017296544-170667a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/shutterstock-1702515205.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/error.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/layout.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/loading.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/page.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/projects/error.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/projects/layout.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/projects/loading.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/projects/page.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/services/error.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/services/layout.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/services/loading.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/services/page.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/team/error.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/team/layout.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/team/loading.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/team/page.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/testimonials/error.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/testimonials/layout.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/testimonials/loading.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/testimonials/page.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/AllProject.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Brands.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Contacts.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/FeaturedProject.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Hero.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/HowWorks.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Services.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SiteFooter.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SiteNavBar.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Stats.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Team.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Testimonial.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/globals.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/layout.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/page.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tailwind.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/opt/homebrew/Cellar/php/8.2.5/bin/php" />
+  <component name="ProjectId" id="2VWnEruMlKgK6Nr7w2QaRYOqTRV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa9c53e9-2c6f-4885-ae82-967d8332a1b3" name="Changes" comment="" />
+      <created>1694960594951</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694960594951</updated>
+      <workItem from="1694960596070" duration="96000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
